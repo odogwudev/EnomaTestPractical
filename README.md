@@ -5,8 +5,9 @@ Sample of recent practical done in Compose
 > First demo: a **₦ amount drag stepper** that increments/decrements by **₦100** while you hold/drag.
 
 ## 🎬 Demo
-<video src="videos/nairaincrement.mp4" controls muted playsinline style="max-width:100%; border-radius:12px;"></video>
-[![Watch the video](https://avatars.githubusercontent.com/u/77755335?v=4)](https://github.com/odogwudev/EnomaTestPractical/blob/main/videos/nairaincrement.mp4)
+
+<video src="https://github.com/odogwudev/EnomaTestPractical/blob/main/videos/nairaincrement.mp4" width="320" height="240" controls></video>
+<video src="https://github.com/odogwudev/EnomaTestPractical/blob/main/videos/nairaincrement.mp4" controls muted playsinline style="max-width:100%; border-radius:12px;"></video>
 
 ---
 
