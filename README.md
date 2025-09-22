@@ -5,8 +5,11 @@ Sample of recent practical done in Compose
 > First demo: a **₦ amount drag stepper** that increments/decrements by **₦100** while you hold/drag.
 
 ## 🎬 Demo
+If you commit the video to `videos/nairaincrement.mp4`, it will render inline on GitHub:
+
 <video src="videos/nairaincrement.mp4" controls muted playsinline style="max-width:100%; border-radius:12px;"></video>
 
+Fallback link (after commit): `videos/nairaincrement.mp4`
 
 ---
 
