@@ -4,10 +4,13 @@ Sample of recent practical done in Compose
 > This repo is my playground for quick Android experiments (Jetpack Compose, Kotlin, animations, deep links, etc.).
 > First demo: a **₦ amount drag stepper** that increments/decrements by **₦100** while you hold/drag.
 
-## 🎬 Demo
 
-<video src="https://github.com/odogwudev/EnomaTestPractical/blob/main/videos/nairaincrement.mp4" width="320" height="240" controls></video>
-<video src="https://github.com/odogwudev/EnomaTestPractical/blob/main/videos/nairaincrement.mp4" controls muted playsinline style="max-width:100%; border-radius:12px;"></video>
+
+
+## 🎬 Demo
+>First Expirriment
+https://github.com/user-attachments/assets/5d30ab0b-9aef-43a4-80e0-f327c0fec666
+
 
 ---
 
