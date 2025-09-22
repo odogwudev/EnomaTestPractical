@@ -8,7 +8,6 @@ Sample of recent practical done in Compose
 
 
 ## 🎬 Demo
->First Expirriment
 https://github.com/user-attachments/assets/5d30ab0b-9aef-43a4-80e0-f327c0fec666
 
 
